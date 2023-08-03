@@ -1,0 +1,20 @@
+.login {
+    min-width: 150px;
+    max-width: 500px;
+    width: 22%;
+    margin: 100px auto;
+    text-align: center;
+    
+  }
+  button{
+    width: 100%;
+  }
+
+  .toolbar{
+    background-color:  rgb(36, 112, 143);
+    color: aliceblue
+   
+    
+  }
+  
+ 

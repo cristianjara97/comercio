@@ -1,0 +1,27 @@
+.Cabecera{
+    
+    top: 1px;
+    position: sticky;
+    box-shadow: 0 0.1rem 1rem rgb(2, 76, 99);
+    z-index: 100;
+    
+}
+
+span{
+    font-weight: bold;
+    color: antiquewhite;
+
+}
+
+.toolbar{
+    background-color: rgb(36, 112, 143);
+}
+
+a{
+    background-color: rgb(36, 112, 143);
+    color: aliceblue;
+}
+
+.espacio{
+    flex: 1 1 auto;
+}

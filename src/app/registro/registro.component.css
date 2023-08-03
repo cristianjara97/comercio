@@ -1,0 +1,17 @@
+.registro {
+    min-width: 150px;
+    max-width: 500px;
+    width: 22%;
+    margin: 100px auto;
+    text-align: center;
+    
+  }
+  button{
+    width: 100%;
+    background-color: green;
+  }
+
+  p{
+    color: red;
+  }
+

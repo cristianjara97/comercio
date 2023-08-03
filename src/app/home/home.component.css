@@ -1,0 +1,21 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card{
+    margin: 5px;
+    min-height: 180px;
+    min-width: 480px;
+    height: 100%;
+     text-align: center;
+     width: 25%;
+
+}
+
+button{
+    width: 80%;
+}
